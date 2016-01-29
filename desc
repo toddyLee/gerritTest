@@ -3,4 +3,5 @@ this is a test file.
 FOR(INT i=0; i<MAX_INT; i++) {
   PUTS(i);
   PUTS(i*i);
+  PUTS(i*i*i);
 }
