@@ -11,3 +11,4 @@ PUTS("test00003");
 PUTS("redo test00003_3");
 PUTS("test00004");
 PUTS("test00005-test r email");
+PUTS("test00006");
