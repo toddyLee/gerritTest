@@ -1,0 +1,14 @@
+[gerrit]
+host=202.96.135.238
+port=39418
+project=gerritTest
+defaultbranch=master
+defaultremote=gerrit
+defaultrebase=0
+[mini1]
+host=202.96.135.238
+port=39418
+project=gerritTest
+defaultbranch=mini1
+defaultrebase=0
+
