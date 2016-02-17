@@ -8,3 +8,4 @@ FOR(INT i=0; i<MAX_INT; i++) {
 PUTS("test00001");
 PUTS("test00002");
 xxxx
+test b3
