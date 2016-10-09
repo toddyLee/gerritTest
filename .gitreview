@@ -1,5 +1,6 @@
 [gerrit]
 host=162.3.253.121
-port=59418
-project=gerritTest
+port=29418
+project=toddyLee/gerritTest
+defaultbranch=master
 defaultremote=gerrit
