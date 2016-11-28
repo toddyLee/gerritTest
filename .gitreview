@@ -1,5 +1,5 @@
 [gerrit]
-host=162.3.253.121
-port=59418
+host=162.3.253.20
+port=39418
 project=gerritTest
 defaultremote=gerrit
